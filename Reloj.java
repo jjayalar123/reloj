@@ -219,6 +219,7 @@ public class Reloj { //inicio de calse principal
         //reloj3.setReloj(25000);
         //reloj3.setReloj(25000);
         //System.out.println(reloj1);
+        System.out.println("Hola");
     }//fin del main
 } //fin de calse principal
 
