@@ -90,6 +90,7 @@ public class Reloj { //inicio de calse principal
         else
         {
             System.out.println(" Datos invalidos ");
+            System.out.println("modifique archivo jajajajajjajaja");
         }
     }
 
